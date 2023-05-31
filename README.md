@@ -7,6 +7,6 @@ Projects:🔮
 
 2) ResultSummaryCard ✨
 
-   URL:
+   URL: https://super-lebkuchen-537d9b.netlify.app/
 
    Please Go & check it out❣ !!!
